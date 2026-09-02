@@ -1,1 +1,0 @@
-# Fourier-series-epicycle-visualizer
